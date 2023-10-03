@@ -15,10 +15,6 @@ export const SkillsData = [
           icon: <i class="devicon-css3-plain colored"></i>
           },
       {
-        name: "JavaScript",
-        icon: <i class="devicon-javascript-plain colored"></i>
-      },
-      {
         name: "Tailwind",
         icon: <i class="devicon-tailwindcss-plain colored"></i>
       },
@@ -27,10 +23,6 @@ export const SkillsData = [
   {
     type: "Cloud & Linux",
     list: [
-      {
-        name: "Azure",
-        icon: <i class="devicon-azure-plain colored"></i>
-      },
       {
         name: "Docker",
         icon: <i class="devicon-docker-plain colored"></i>
@@ -46,6 +38,23 @@ export const SkillsData = [
       {
         name: "Bash",
         icon: <i class="devicon-bash-plain colored"></i>
+      },
+    ],
+  },
+  {
+    type: "Software Development",
+    list: [
+      {
+        name: "Python",
+        icon: <i class="devicon-python-plain"></i>
+      },
+      {
+        name: "Jupyter Development",
+        icon: <i class="devicon-jupyter-plain colored"></i>
+      },
+      {
+        name: "Pandas",
+        icon: <i class="devicon-pandas-plain colored"></i>
       },
     ],
   },

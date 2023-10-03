@@ -1,34 +1,19 @@
 export const WorkData = [
     {
-        company: "Google IT Support Certificate" ,
-        designation: "Google IT Support",
+        company: "Smart India Hackathon" ,
+        designation: "Python and React Developer",
         dateJoining: "2022",
-        dateEnd: "2023",
-        companyLogo:"https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png",
-        work:"I am proficient in hardware and software troubleshooting , knowledge of operating systems, networking concepts, experience in providing excellent customer service.",
+        dateEnd: "2022",
+        companyLogo:"https://engg.cambridge.edu.in/wp-content/uploads/2023/07/SIH.png",
+        work:"Won the Smart India Hackathon 2022 with a team, proposing a scalable multilingual solution for Dell. I also developed a healthcare chatbot builder using Python, RASA, MongoDB, AWS, and Docker.",
     },
     {
-        company: "Microsoft Certified: Azure Fundamentals" ,
-        designation: "AZ-900",
-        dateJoining: "2022",
-        dateEnd: "2023",
-        companyLogo:"https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png",
-        work:"I have solid understanding of cloud computing principles and best practices.Familiarity with Azure services such as virtual machines, storage, and networking.."
+        company: "Intern At ARTPARK IISc Bangalore" ,
+        designation: "Research Intern and Data Engineer",
+        dateJoining: "July 2023",
+        dateEnd: "Present",
+        companyLogo:"https://media.licdn.com/dms/image/C560BAQF4n-CMHTyGzA/company-logo_200_200/0/1626862723846?e=2147483647&v=beta&t=7MbC-9eOAq6rUdu4RHN1Eb3p-QFsqz-rN69qQroR5NE",
+        work:"Conducted comprehensive data cleaning, removing duplicate, missing, and inconsistent entries in the dengue dataset, followed by exploratory data analysis to identify outliers, anomalies, and data quality issues. Currently working on designing an end-to-end data processing and modeling pipeline for dengue data to ensure efficient and reproducible workflows."
     },
-    {
-        company: "Security Operations Analyst" ,
-        designation: "SC-200",
-        dateJoining: "2022",
-        dateEnd: "2023",
-        companyLogo:"https://images.credly.com/size/340x340/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png",
-        work:"I proficient in security operations and incident response and experience with threat intelligence and security monitoring using Microsoft security technologies.I have knowledge of governance, risk, and compliance frameworks and practices."
-    },
-    {
-        company: "Azure Administrator Associate" ,
-        designation: "AZ-104",
-        dateJoining: "2022",
-        dateEnd: "2023",
-        companyLogo:"https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png",
-        work:"I have proficient in managing and maintaining Azure infrastructure and services also experience with Azure virtual machines, storage, networking, and security.I have knowledge of Azure identity and access management, monitoring, and governance."
-    }
+
 ]
